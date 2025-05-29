@@ -22,3 +22,10 @@ Analysis of booking cancellations for City Hotel and Resort Hotel to identify pa
 
 ## Usage
 Run the Jupyter notebook `notebooks/Hotel_Booking_Analysis.ipynb` to see the full analysis.
+
+## 🙋‍♂️ Author
+
+**Piyush Suthar**  
+data analyst | Data Enthusiast | Engineer  
+📩 [LinkedIn](https://www.linkedin.com/in/piyush-suthar07/)
+📧 sutharpiyush033@gmail.com
